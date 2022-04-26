@@ -1,0 +1,63 @@
+$font_family_base: 'Satoshi',
+'Clash',
+Arial,
+sans_serif;
+$font_size_base: 12px;
+$font_weight_base: normal;
+$line_height_base: 1.4;
+$body_color: #232630;
+$body_bg: #FCFBF7;
+
+
+$headings_margin_bottom: 1em;
+$paragraph_margin_bottom: 1em;
+
+$dt_font_weight: bold;
+
+$link_color: #DE5000;
+$link_decoration: none;
+$link_hover_color: darken($link_color, 10%);
+$link_hover_decoration: none;
+$table_cell_padding: .5em;
+
+$text_muted: lighten($body_color, 15%);
+
+$base: .5rem;
+
+// GRADIENTS
+$degradado: linear-gradient(88.28deg, rgba(255, 168, 0, 0.4) 3.25%, rgba(255, 168, 0, 0) 40.45%), linear-gradient(268.59deg, rgba(255, 0, 0, 0.3) 17.17%, rgba(255, 0, 0, 0) 77.46%), #DD5203;
+$degradadoDark: linear-gradient(88.28deg, rgba(255, 168, 0, 0.7) 3.25%, rgba(255, 168, 0, 0) 40.45%), linear-gradient(268.59deg, rgba(255, 25, 25, 0.3) 17.17%, rgba(255, 0, 0, 0) 77.46%), #FF6F1E;
+$degradadoInTv: linear-gradient(90.7deg, rgba(28, 255, 91, 0.7) 4.5%, rgba(0, 255, 71, 0) 101.64%), #79AFFF;
+$degradadoInTvLight: linear-gradient(90.7deg, rgba(0, 213, 59, 0.7) 4.5%, rgba(0, 255, 71, 0) 101.64%), #403DDB;
+
+// BASICS
+$corporateWhite: #FCFBF7;
+$yellow: #FF8C1C;
+$orange: #DE5000;
+$red: #E73A02;
+$black: #121419;
+$darkBlue: #232630;
+$grey: #4D546A;
+$grey2: #636D87;
+$grey3: #B8BDCB;
+$grey4: #D6D9E1;
+
+// DARK MODE
+$dYellow: #FFAA2B;
+$dOrange: #FC6007;
+$dRed: #FE450A;
+$dWhite: #FFFDFA;
+$dWhite2: #F9F5EC;
+$dGrey: #D6D9E1;
+$dGrey2: #B8BDCB;
+$dGrey3: #636D87;
+$dGrey4: #4D546A;
+
+// INTV
+$inTvGreen: #5CFF89;
+$inTvLightBlue: #54FEF1;
+$inTvBlue: #6DB7ED;
+
+//SHADOWS
+
+$shadow: -4px 5px 50px rgba(35, 38, 48, 0.13);

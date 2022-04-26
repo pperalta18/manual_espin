@@ -1,0 +1,21 @@
+{
+  "name": "boiler_vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "sass": "^1.32.11",
+    "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "jquery": "^3.6.0",
+    "swiper": "^6.6.1",
+    "three": "^0.138.3",
+    "waterfall": "^3.0.1"
+  }
+}

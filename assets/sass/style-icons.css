@@ -1,0 +1,137 @@
+
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'espin-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-in:before {
+  content: "\e901";
+}
+.icon-tv:before {
+  content: "\e902";
+}
+.icon-phis:before {
+  content: "\e903";
+}
+.icon-actu:before {
+  content: "\e904";
+}
+.icon-astr:before {
+  content: "\e905";
+}
+.icon-tech:before {
+  content: "\e906";
+}
+.icon-bio:before {
+  content: "\e907";
+}
+.icon-chem:before {
+  content: "\e908";
+}
+.icon-bell:before {
+  content: "\e909";
+}
+.icon-close:before {
+  content: "\e90a";
+}
+.icon-tic:before {
+  content: "\e900";
+}
+.icon-download:before {
+  content: "\e90b";
+}
+.icon-elypsis:before {
+  content: "\e90c";
+}
+.icon-share:before {
+  content: "\e90d";
+}
+.icon-fa-down:before {
+  content: "\e90e";
+}
+.icon-fa-left:before {
+  content: "\e90f";
+}
+.icon-fa-right:before {
+  content: "\e910";
+}
+.icon-fa-up:before {
+  content: "\e911";
+}
+.icon-arrow-left:before {
+  content: "\e912";
+}
+.icon-reduce_screen:before {
+  content: "\e913";
+}
+.icon-full_screen:before {
+  content: "\e914";
+}
+.icon-like:before {
+  content: "\e915";
+}
+.icon-dislike:before {
+  content: "\e916";
+}
+.icon-live:before {
+  content: "\e917";
+}
+.icon-newsletter:before {
+  content: "\e918";
+}
+.icon-no-messages:before {
+  content: "\e919";
+}
+.icon-pause:before {
+  content: "\e91a";
+}
+.icon-pause_fill:before {
+  content: "\e91b";
+}
+.icon-play:before {
+  content: "\e91c";
+}
+.icon-play_fill:before {
+  content: "\e91d";
+}
+.icon-search:before {
+  content: "\e91e";
+}
+.icon-sections:before {
+  content: "\e91f";
+}
+.icon-share_tv:before {
+  content: "\e920";
+}
+.icon-muted:before {
+  content: "\e921";
+}
+.icon-sound1:before {
+  content: "\e922";
+}
+.icon-sound2:before {
+  content: "\e923";
+}
+.icon-sound3:before {
+  content: "\e924";
+}
+.icon-subtitles:before {
+  content: "\e925";
+}
+.icon-user:before {
+  content: "\e926";
+}
+.icon-user_fill:before {
+  content: "\e927";
+}
