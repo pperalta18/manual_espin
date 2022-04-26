@@ -1,5 +1,4 @@
 import '../assets/sass/main.scss';
-import anime from 'animejs';
 import $ from 'jquery';
 
 
