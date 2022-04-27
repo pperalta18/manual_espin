@@ -448,7 +448,7 @@ template {
 */
 @font-face {
   font-family: 'ClashDisplay-Variable';
-  src: url("../fonts/satoshi/ClashDisplay-Variable.woff2") format("woff2"), url("../fonts/satoshi/ClashDisplay-Variable.woff") format("woff"), url("../fonts/satoshi/ClashDisplay-Variable.ttf") format("truetype");
+  src: url("../fonts/clash/ClashDisplay-Variable.woff2") format("woff2"), url("../fonts/clash/ClashDisplay-Variable.woff") format("woff"), url("../fonts/clash/ClashDisplay-Variable.ttf") format("truetype");
   font-weight: 200 700;
   font-display: swap;
   font-style: normal;
@@ -456,7 +456,7 @@ template {
 
 @font-face {
   font-family: 'ClashDisplay-Extralight';
-  src: url("../fonts/satoshi/ClashDisplay-Extralight.woff2") format("woff2"), url("../fonts/satoshi/ClashDisplay-Extralight.woff") format("woff"), url("../fonts/satoshi/ClashDisplay-Extralight.ttf") format("truetype");
+  src: url("../fonts/clash/ClashDisplay-Extralight.woff2") format("woff2"), url("../fonts/clash/ClashDisplay-Extralight.woff") format("woff"), url("../fonts/clash/ClashDisplay-Extralight.ttf") format("truetype");
   font-weight: 200;
   font-display: swap;
   font-style: normal;
@@ -472,7 +472,7 @@ template {
 
 @font-face {
   font-family: 'ClashDisplay-Regular';
-  src: url("../fonts/satoshi/ClashDisplay-Regular.woff2") format("woff2"), url("../fonts/satoshi/ClashDisplay-Regular.woff") format("woff"), url("../fonts/satoshi/ClashDisplay-Regular.ttf") format("truetype");
+  src: url("../fonts/clash/ClashDisplay-Regular.woff2") format("woff2"), url("../fonts/clash/ClashDisplay-Regular.woff") format("woff"), url("../fonts/clash/ClashDisplay-Regular.ttf") format("truetype");
   font-weight: 400;
   font-display: swap;
   font-style: normal;
@@ -480,7 +480,7 @@ template {
 
 @font-face {
   font-family: 'ClashDisplay-Medium';
-  src: url("../fonts/satoshi/ClashDisplay-Medium.woff2") format("woff2"), url("../fonts/satoshi/ClashDisplay-Medium.woff") format("woff"), url("../fonts/satoshi/ClashDisplay-Medium.ttf") format("truetype");
+  src: url("../fonts/clash/ClashDisplay-Medium.woff2") format("woff2"), url("../fonts/clash/ClashDisplay-Medium.woff") format("woff"), url("../fonts/clash/ClashDisplay-Medium.ttf") format("truetype");
   font-weight: 500;
   font-display: swap;
   font-style: normal;
@@ -488,7 +488,7 @@ template {
 
 @font-face {
   font-family: 'ClashDisplay-Semibold';
-  src: url("../fonts/satoshi/ClashDisplay-Semibold.woff2") format("woff2"), url("../fonts/satoshi/ClashDisplay-Semibold.woff") format("woff"), url("../fonts/satoshi/ClashDisplay-Semibold.ttf") format("truetype");
+  src: url("../fonts/clash/ClashDisplay-Semibold.woff2") format("woff2"), url("../fonts/clash/ClashDisplay-Semibold.woff") format("woff"), url("../fonts/clash/ClashDisplay-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-display: swap;
   font-style: normal;
