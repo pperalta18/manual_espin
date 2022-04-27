@@ -1,6 +1,5 @@
 import '../assets/sass/main.scss';
 
-import $ from '../app/jquery/dist/jquery';
 
 
 window.addEventListener('load', () => {
