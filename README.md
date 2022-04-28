@@ -1,1 +1,1 @@
-manual_espin - prueba
+Este proyecto web se realiza como trabajo final de grado de Pablo Peralta Ridruejo (que se reserva los derechos de autoría) para la Escuela Superior de Diseño de Madrid. Se trata de un manual gráfico web agrupando los diseños realizados para'espín', un proyecto ficticio con el fin de crear una publicación de divulgación científica. Para contacto, visite la web en https://manualespin.com .  
